@@ -1,0 +1,18 @@
+{
+  "name": "com.kienack123.asset-usage-finder",
+  "version": "1.0.0",
+  "displayName": "Asset Usage Finder",
+  "description": "Answers \"who is actually using this asset?\" and shows a usage count badge for scripts and prefabs directly in the Project window, so dead scripts and orphan prefabs are visible without searching for them. Editor only.",
+  "unity": "6000.2",
+  "author": {
+    "name": "KienTran",
+    "url": "https://github.com/kienack123"
+  },
+  "keywords": [
+    "editor",
+    "usages",
+    "dependencies",
+    "finder",
+    "tools"
+  ]
+}
